@@ -8,10 +8,12 @@ Ever found yourself staring at a chunk of HTML, wishing you could edit it withou
 
 This nifty little app lets you:
 
-- 📝 Paste in your existing HTML
+- 📝 Copy & Paste in your existing HTML
 - ✏️ Edit content through a user-friendly interface
 - 🔄 Generate updated HTML automagically
 - 📱 View your content in a mobile-friendly format
+- 📝 Copy & Paste resulting HTML
+- 🔁 Rinse and repeat til you´re happy 🎉
 
 Perfect for content managers, non-techy folks, or anyone who'd rather not wrestle with HTML tags!
 
